@@ -27,7 +27,6 @@ object CommentsBuild extends Build {
         "org.scalatra" %% "scalatra-specs2" % ScalatraVersion % "test",
         "org.scalatra" %% "scalatra-json" % "2.2.1",
         "org.json4s"   %% "json4s-jackson" % "3.2.4",
-        "com.wordnik"  %% "swagger-core" % "1.2.0",
         "org.scalatra" %% "scalatra-swagger" % ScalatraVersion,
         "ch.qos.logback" % "logback-classic" % "1.0.6" % "runtime",
         "org.eclipse.jetty" % "jetty-webapp" % "8.1.8.v20121106" % "container",
